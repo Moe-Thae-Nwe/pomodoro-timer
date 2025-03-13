@@ -1,0 +1,32 @@
+* {
+  color: #414147;
+  font-family: Dongle;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+div {
+  font-size: 30px;
+}
+
+html {
+  background-color: #e6e6fa;
+}
+
+button {
+  margin: 3px;
+  background-color: #89a5ca;
+  color: #272f39;
+  font-size: 30px;
+  border: 0;
+  font-family: Dongle;
+  border-radius: 10px;
+}
+
+#length {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
